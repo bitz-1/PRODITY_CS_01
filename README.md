@@ -20,7 +20,7 @@ This Python-based program allows users to encrypt and decrypt text using the Cae
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <repository-url
    ```
 2. Navigate to the project directory:
    ```bash
