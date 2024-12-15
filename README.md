@@ -32,6 +32,9 @@ This Python-based program allows users to encrypt and decrypt text using the Cae
    ```
 4. Follow the on-screen instructions to encrypt or decrypt text.
 
+![Tool](https://github.com/bitz-1/PRODITY_CS_01/blob/main/Screenshot%202024-12-15%20194402.png)
+
+
 ## About the Developer
 Developed by **Apurv Nandgaonkar** as part of a cybersecurity project.  
 Feel free to reach out for feedback or collaboration opportunities at **apurv.mod007@gmail.com**.
